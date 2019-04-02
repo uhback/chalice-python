@@ -1,4 +1,5 @@
 .chalice/deployments/
 .chalice/venv/
 
+env
 chalicelib/rds_config.py
