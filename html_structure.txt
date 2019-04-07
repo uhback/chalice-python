@@ -1,0 +1,26 @@
+<div class="table-responsive list-pc">
+    <table class="table div-table list-tbl bg-white">
+        <thead></thead>
+        <tbody>
+            <tr class></tr>
+            <tr>
+                <td class="text-center font-11">
+                    <span class="en">{wr_id}</span>
+                </td>
+                <td class="list-subject">
+                    <a>
+                        <span></span>
+                        <strong>{Title}</strong>
+                    </a>
+                    <div class="list-cont">
+                        <span class="list-cont">{Category}</span>
+                        <span class="member">{Uer_Account}</span>
+                    </div>
+                </td>
+                <td class="text-center en">
+                    <span class="click-title">{Count_Click}</span>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
